@@ -6,7 +6,7 @@ pipeline{
          tag "law-*"
         }
        steps{
-         echo "hello world building tag"
+         echo "hello worldsc building tag"
          }
         }
        }

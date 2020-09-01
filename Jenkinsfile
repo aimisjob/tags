@@ -3,7 +3,7 @@ pipeline{
    stages{
      stage('build'){
        when{
-         buildigTag()
+         buildingTag()
         }
        steps{
          echo "hello worlds building tag"
